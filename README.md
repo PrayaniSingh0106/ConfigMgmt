@@ -120,6 +120,11 @@ Open jenkins on specified location above and check if the build is running.
 ## ScreenCast link
 https://drive.google.com/drive/folders/1mXXmxJ1JYzsIzeRBpfsbZqc69qA-OorE?usp=sharing
 
+## Screeshot:
+
+<img src="Screen Shot 2019-02-28 at 11.35.06 AM.png"/>
+
+
 ## Link to project wiki
 https://github.ncsu.edu/ssujal/CSC519_Project/wiki
 
